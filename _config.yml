@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "liyang17"
+title                    : "liyang17/Personal Homepage"
 title_separator          : "-"
 name                     : &name "YoungLee"
-description              : &description "personal description"
-url                      : https://liyang17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : https://liyang17.github.io # the subpath of your site, e.g. "/blog"
+description              : &description "a professor from Peking University"
+url                      : https://liyang17.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liyang17/liyang17.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "this is liyang17"
   location         : "Hunan Province Changsha City"
-  employer         : "Red Brick University"
-  uri              : https://liyang17.github.io
-  email            : "none@example.org" 
+  employer         : 
+  uri              : 
+  email            : "18731896909@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
