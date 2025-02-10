@@ -22,4 +22,4 @@ Site-wide configuration
 How to edit your site's GitHub repository
 ------
 
- [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub]
+the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki)
