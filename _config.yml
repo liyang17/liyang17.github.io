@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : 
+title                    : "liyang17"
 title_separator          : "-"
 name                     : &name "YoungLee"
 description              : &description "personal description"
