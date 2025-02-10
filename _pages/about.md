@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Assistant Professor at The Hong Kong University of Science and Technology.
+PhD & Postdoc Opening: I am looking for MPhil/PhD students (full scholarship) and Postdocs to work on energy system modeling and optimization for vehicles, buildings, and cities. Students in building science, mechanical engineering, civil engineering, automation, applied mathematics, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested. For PhD application, please check the HKUST Graduate School.
+Prior to joining HKUST, I was a Project Scientist in Building Technology & Urban Systems Division at Lawrence Berkeley National Laboratory from 2018 to 2021. I received my Bachelor and Ph.D. at Tsinghua University, supervised by Prof. Yingxin Zhu and Prof. Borong Lin; and my M.Phil degree in Department of Engineering at University of Cambridge in 2014.
+Curriculum Vitae
 
 A data-driven personal website
 ======
