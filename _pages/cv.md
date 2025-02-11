@@ -19,14 +19,7 @@ Education
 Skills
 ======
 * Software
-  * MATLAB
-  * Ansys Fluent
-  * Python
-  * Fortran
-  * Microsoft Office
-  * Airpak
-  * Contam
-  * Revit
+  * MATLAB, Ansys Fluent, Python, Fortran, Microsoft Office, Airpak, Contam, Revit
 * CFD Modeling
 * Building Parameter Analysis
 * Data Analysis
@@ -37,13 +30,12 @@ Publications
 Thermal Performance of Packed-Bed Latent Heat Storage Tank Integrated with Flat-Plate Collectors Under Intermittent Loads of Building Heating. Energy
 
 Optimal Design of Air Distribution Systems in Large Indoor Spaces During the Construction of Walls: A Case Study on Liquefied Natural Gas Terminal Storage Tanks
-Yan Ding*, Xiao Pan, Xiong Shen, Jianbo Lai, Yan Zhu, Jiatao Liu, Jobaier, Faezeh Pishahang
-Journal of Building Engineering. May. 2024
-[3]	Quantitative Method and Influencing Factors Analysis of Demand Response Performance of Air Conditioning Load with Rebound Effect
-Ran Wang, Xiaoyue Xin, Jiatao Liu, Shilei Lu*, Yunjun Sun, Wenduan Zhao
+Journal of Building Engineering.
+
+Quantitative Method and Influencing Factors Analysis of Demand Response Performance of Air Conditioning Load with Rebound Effect
 Submitted to Building Simulation. July. 2024
-[4]	Combination of UV Radiation with 3D Structure Media Filter for Indoor Air Disinfection.
-Jiatao Liu, Junjie Liu*, Yingying Fan and Pan Wang 
+
+Combination of UV Radiation with 3D Structure Media Filter for Indoor Air Disinfection.
 The 16th ROOMVENT Conference (ROOMVENT 2022).
 
   
