@@ -11,41 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in XXXXXXXX, The Hong Kong University of Science and Technology, 2025.03 (expected)
+* M.S. in Sustainable Energy & Green Technologies, University College Dublin, 2023.09-2024.06
+* M.S. in Heat and Gas Supply, Ventilation and Air-Condition, Tianjin University,2022.09-2023.12
+* B.S. in Building Environment and Energy Application Engineering, Tianjin University, 2018.09-2022.06
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * MATLAB
+  * Ansys Fluent
+  * Python
+  * Fortran
+  * Microsoft Office
+  * Airpak
+  * Contam
+  * Revit
+* CFD Modeling
+* Building Parameter Analysis
+* Data Analysis
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Thermal Performance of Packed-Bed Latent Heat Storage Tank Integrated with Flat-Plate Collectors Under Intermittent Loads of Building Heating. Energy
+
+Optimal Design of Air Distribution Systems in Large Indoor Spaces During the Construction of Walls: A Case Study on Liquefied Natural Gas Terminal Storage Tanks
+Yan Ding*, Xiao Pan, Xiong Shen, Jianbo Lai, Yan Zhu, Jiatao Liu, Jobaier, Faezeh Pishahang
+Journal of Building Engineering. May. 2024
+[3]	Quantitative Method and Influencing Factors Analysis of Demand Response Performance of Air Conditioning Load with Rebound Effect
+Ran Wang, Xiaoyue Xin, Jiatao Liu, Shilei Lu*, Yunjun Sun, Wenduan Zhao
+Submitted to Building Simulation. July. 2024
+[4]	Combination of UV Radiation with 3D Structure Media Filter for Indoor Air Disinfection.
+Jiatao Liu, Junjie Liu*, Yingying Fan and Pan Wang 
+The 16th ROOMVENT Conference (ROOMVENT 2022).
+
   
 Talks
 ======
@@ -53,11 +53,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
